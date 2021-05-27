@@ -1,0 +1,53 @@
+body{
+    background-color: white;
+    font-size: 36px;
+    color: black;
+    background-image: url(http://elitefon.ru/pic/201211/1920x1080/elitefon.ru-10450.jpg);
+}
+h1{
+    font-size: 56px;
+}
+h2{
+    font-size: 56px;
+}
+h3{
+    font-size: 56px;
+}
+p{
+    font-size: 25px;
+}
+ol,ul{
+  color:white;
+  list-style-type: none;
+  margin: 20px 25px;
+}
+li{
+  display: inline-block;
+  margin: 10px;
+}
+a{
+  color:white;
+  text-decoration: none;
+  padding: 10px 15px;
+  border: 1px solide yellow;
+  border-radius: 5px;
+}
+a:hover{
+  color: grey;
+  font-size: 30px;
+  text-decoration: none;
+}
+.post{
+  background-color: white;
+  color: grey;
+  border:2px;
+  border-radius: 10px;
+  padding: 10px 20px;
+}
+.intro{
+  background-color: white;
+  color: black;
+  border:2px;
+  border-radius: 10px;
+  padding: 10px 20px;
+}
